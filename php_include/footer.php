@@ -10,9 +10,6 @@
 						<div class="social-media">
 							<a href=""><i class="fa fa-facebook"></i></a>
 							<a href=""><i class="fa fa-twitter"></i></a>
-							<a href=""><i class="fa fa-dribbble"></i></a>
-							<a href=""><i class="fa fa-pinterest"></i></a>
-							<a href=""><i class="fa fa-linkedin"></i></a>
 						</div>
 					</div>
 				</div>
@@ -50,11 +47,11 @@
 						<div class="footer-contact-info">
 							<div class="single-footer-info">
 								<i class="fa fa-map-marker"></i>
-								<p>N/A</p>
+								<p>47 Edgebrook Ln, br / Danville br / WV. 25053</p>
 							</div>
 							<div class="single-footer-info">
 								<i class="fa fa-phone"></i>
-								<p>n/a</p>
+								<p>(681) 238 9458</p>
 							</div>
 							<div class="single-footer-info">
 								<i class="fa fa-envelope"></i><a href="mailto:">support@fireandicehosting.com</a>
