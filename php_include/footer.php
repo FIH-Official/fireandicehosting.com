@@ -47,7 +47,7 @@
 						<div class="footer-contact-info">
 							<div class="single-footer-info">
 								<i class="fa fa-map-marker"></i>
-								<p>47 Edgebrook Ln, br / Danville br / WV. 25053</p>
+								<p>47 Edgebrook Ln, br/ Danville br/ WV. 25053</p>
 							</div>
 							<div class="single-footer-info">
 								<i class="fa fa-phone"></i>
