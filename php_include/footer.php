@@ -5,8 +5,7 @@
 				<div class="col-lg-3 col-md-6 col-sm-12 col-xs-12">
 					<div class="single-footer">
 						<img src="assets/images/logo.png" alt="">
-						<p>Folly was these three and songs arose whose. Of in vicinity contempt together in possible
-							branched.</p>
+						<p>Fire &amp; Hosting L.L.C takes extream pride and dedication in their products and has a customer friendly support team built to help you for any issue you may have!</p>
 						<div class="social-media">
 							<a href=""><i class="fa fa-facebook"></i></a>
 							<a href=""><i class="fa fa-twitter"></i></a>
@@ -28,7 +27,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
+				<!-- <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
 					<div class="single-footer footer-subscriber">
 						<h3>Subscriber</h3>
 						<div class="newsletter">
@@ -40,7 +39,7 @@
 						</div>
 						<p>More info comming soon</p>
 					</div>
-				</div>
+				</div> -->
 				<div class="col-lg-3 col-md-6 col-sm-12 col-xs-12">
 					<div class="single-footer">
 						<h3>Contact Us</h3>
