@@ -677,7 +677,11 @@ a#scrollUp:hover {
   color: #fff;
 }
 
-
+@media (max-width: 980px) {
+  .header-top {
+    display: none;
+  }
+}
 
 
 /*
