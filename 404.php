@@ -37,7 +37,7 @@
 					<img class="mb-20" src="assets/images/404.svg" alt="">
 					<h3 class="mb-40">Ooops! Something went wrong. Go back to the Earth.</h3>
 					<a href="index.html" class="bttn btn-fill">Take Me Home</a>
-				</div>
+				</div> 
 			</div>
 		</div>
 	</section>
