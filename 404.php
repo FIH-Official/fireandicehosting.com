@@ -16,7 +16,7 @@
 						<h2>Page Not Found</h2>
 						<div class="custom-hero-breadcrumb">
 							<ul>
-								<li><a href="index.html">Home</a></li>
+								<li><a href="index">Home</a></li>
 								<li>404</li>
 							</ul>
 						</div>
@@ -36,7 +36,7 @@
 				<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 					<img class="mb-20" src="assets/images/404.svg" alt="">
 					<h3 class="mb-40">Ooops! Something went wrong. Go back to the Earth.</h3>
-					<a href="index.html" class="bttn btn-fill">Take Me Home</a>
+					<a href="index" class="bttn btn-fill">Take Me Home</a>
 				</div> 
 			</div>
 		</div>
