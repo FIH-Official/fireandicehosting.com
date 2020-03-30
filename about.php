@@ -16,8 +16,8 @@
 						<h2>Who we are</h2>
 						<div class="custom-hero-breadcrumb">
 							<ul>
-								<li><a href="index.html">Home</a></li>
-								<li>About us</li>
+								<li><a href="index">Home</a></li>
+								<li> About us</li>
 							</ul>
 						</div>
 					</div>
@@ -65,28 +65,25 @@
 				<div class="col-lg-3 col-md-6 col-sm-12 wow fadeInLeft" data-wow-delay="0.4s">
 					<div class="single-team">
 						<img src="assets/images/team1.png" alt="">
-						<h4>Adan Pagana</h4>
+						<h4>Seth B</h4>
 						<p>Ceo & Founder</p>
 						<div class="team-social">
-							<a href=""><i class="fa fa-facebook"></i></a>
-							<a href=""><i class="fa fa-twitter"></i></a>
-							<a href=""><i class="fa fa-dribbble"></i></a>
-							<a href=""><i class="fa fa-pinterest"></i></a>
-							<a href=""><i class="fa fa-linkedin"></i></a>
+							<a href=""><i class="fab fa-facebook"></i></a>
+							<a href=""><i class="fab fa-twitter"></i></a>
 						</div>
 					</div>
 				</div>
 				<div class="col-lg-3 col-md-6 col-sm-12 wow fadeInLeft" data-wow-delay="0.5s">
 					<div class="single-team">
 						<img src="assets/images/team2.png" alt="">
-						<h4>Adan Pagana</h4>
-						<p>Ceo & Founder</p>
+						<h4>Hunter L</h4>
+						<p>Cheif Development Officer(CDO)/p>
 						<div class="team-social">
-							<a href=""><i class="fa fa-facebook"></i></a>
-							<a href=""><i class="fa fa-twitter"></i></a>
-							<a href=""><i class="fa fa-dribbble"></i></a>
-							<a href=""><i class="fa fa-pinterest"></i></a>
-							<a href=""><i class="fa fa-linkedin"></i></a>
+							<a href=""><i class="fab fa-facebook"></i></a>
+							<a href=""><i class="fab fa-twitter"></i></a>
+							<a href="">
+								<li class="fas fa-discord"></li>
+							</a>
 						</div>
 					</div>
 				</div>
