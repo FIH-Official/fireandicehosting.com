@@ -72,7 +72,7 @@
 
 								<input type="email" placeholder="Type your email" required>
 
-								<button type="submit"><i class="fa fa-paper-plane-o"></i></button>
+								<button type="submit"><i class="far fa-paper-plane"></i></button>
 
 							</form>
 
