@@ -2293,7 +2293,7 @@ Custom Hero
 ===============================
 
 */
-@import url(./font-awesome.min.css);
+@import url('./font-awesome.min.css');
 
 .custom-hero {
   padding: 210px 0 120px 0;
@@ -2326,11 +2326,6 @@ Custom Hero
   position: absolute;
   font-family: "FontAwesome";
   content: "\f105";
-}
-
-.sendbtn-class {
-  font-family: "FontAwesome";
-  content: "\f1d8";
 }
 
 .custom-hero-breadcrumb ul li a {
