@@ -2327,7 +2327,7 @@ Custom Hero
 .custom-hero-breadcrumb ul li:after {
   position: absolute;
   font-family: FontAwesome;
-  content: "&#8250";
+  content: "&#8250;";
   /* font-family: "FontAwesome"; */
   /* content: "\f105"; */
 }
