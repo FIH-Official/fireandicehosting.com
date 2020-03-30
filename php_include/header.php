@@ -35,11 +35,11 @@
 	<title>Fire & Ice Hosting&trade;</title>
 
 	<!-- Bootstrap -->
-	<link href="assets/css/bootstrap.min.css" rel="stylesheet">	
-	<link rel="stylesheet" href="./assets/css/fontawesome.css">
+	<!-- <link href="assets/css/bootstrap.min.css" rel="stylesheet">	
+	<link rel="stylesheet" href="./assets/css/fontawesome.css"> -->
 	<link href="assets/css/font-awesome.min.css" rel="stylesheet">
 	<link href="assets/css/magnific-popup.css" rel="stylesheet">
-	<!-- <script src="https://kit.fontawesome.com/705de00ff8.js"></script> -->
+	<script src="https://kit.fontawesome.com/705de00ff8.js"></script>
 	<link href="assets/css/animate.css" rel="stylesheet">
 	<link href="assets/css/owl.carousel.min.css" rel="stylesheet">
 
