@@ -17,9 +17,9 @@
 							branched.</p>
 
 						<div class="social-media">
-
+						<a href="https://discord.fireandicehosting.com/"><i class="fab fa-discord"></i></a>
 							<a href=""><i class="fab fa-facebook"></i></a>
-
+							
 							<a href=""><i class="fab fa-twitter"></i></a>
 
 						</div>
@@ -72,7 +72,7 @@
 
 								<input type="email" placeholder="Type your email" required>
 
-								<button type="submit"><i class="sendbtn-class"></i></button>
+								<button type="submit"><i class="fas fa-paper-plane"></i></button>
 
 							</form>
 
