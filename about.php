@@ -77,12 +77,12 @@
 					<div class="single-team">
 						<img src="assets/images/team2.png" alt="">
 						<h4>Hunter L</h4>
-						<p>Cheif Development Officer(CDO)/p>
+						<p>Cheif Development Officer(CDO)</p>
 						<div class="team-social">
 							<a href=""><i class="fab fa-facebook"></i></a>
 							<a href=""><i class="fab fa-twitter"></i></a>
 							<a href="">
-								<li class="fas fa-discord"></li>
+								<li class="fab fa-discord"></li>
 							</a>
 						</div>
 					</div>
