@@ -72,7 +72,7 @@
 
 								<input type="email" placeholder="Type your email" required>
 
-								<button type="submit"><i class="far fa-paper-plane"></i></button>
+								<button type="submit"><i class="sendbtn-class"></i></button>
 
 							</form>
 
@@ -110,7 +110,7 @@
 
 							<div class="single-footer-info">
 
-								<i class="fa fa-envelope"></i><a href="mailto:">support@fireandicehosting.com</a>
+								<i class="fa fa-envelope"></i><a href="mailto:support@fireandicehosting.com">support@fireandicehosting.com</a>
 
 							</div>
 

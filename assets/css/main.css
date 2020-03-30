@@ -2328,6 +2328,11 @@ Custom Hero
   content: "\f105";
 }
 
+.sendbtn-class {
+  font-family: "FontAwesome";
+  content: "\f1d8";
+}
+
 .custom-hero-breadcrumb ul li a {
   color: #fff;
   margin-right: 10px;
