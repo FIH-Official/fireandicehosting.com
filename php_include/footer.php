@@ -17,22 +17,11 @@
 							branched.</p>
 
 						<div class="social-media">
-<<<<<<< HEAD
-
-							<a href=""><i class="fa fa-facebook"></i></a>
-
-							<a href=""><i class="fa fa-twitter"></i></a>
-=======
-						<a href="https://discord.fireandicehosting.com/"><i class="fab fa-discord"></i></a>
-							<a href=""><i class="fab fa-facebook"></i></a>
-							
-							<a href=""><i class="fab fa-twitter"></i></a>
->>>>>>> 93f3332178a398fc163af3d7a1a1d17355291cde
-
+							<a href="https://www.facebook.com/FIHost"><i class="fab fa-facebook"></i></a>
+							<a href="https://twitter.com/fihosting"><i class="fab fa-twitter"></i></a>
+						<a href="https://discord.fireandicehosting.com/"><i class="fab fa-discord"></i></a>s
 						</div>
-
 					</div>
-
 				</div>
 
 				<div class="col-lg-2 col-md-6 col-sm-12 col-xs-12">
@@ -55,12 +44,7 @@
 
 								<li><a href="./index">Security</a></li>
 
-<<<<<<< HEAD
-<!--								<li><a href="./blog">Blog</a></li>-->
-=======
 								<li><a href="./blog">Blog</a></li>
->>>>>>> 93f3332178a398fc163af3d7a1a1d17355291cde
-
 							</ul>
 
 						</div>
@@ -82,13 +66,7 @@
 							<form action="#">
 
 								<input type="email" placeholder="Type your email" required>
-
-<<<<<<< HEAD
-								<button type="submit"><i class="fa fa-paper-plane-o"></i></button>
-=======
 								<button type="submit"><i class="fas fa-paper-plane"></i></button>
->>>>>>> 93f3332178a398fc163af3d7a1a1d17355291cde
-
 							</form>
 
 						</div>
@@ -125,12 +103,8 @@
 
 							<div class="single-footer-info">
 
-<<<<<<< HEAD
-								<i class="fa fa-envelope"></i><a href="mailto:">support@fireandicehosting.com</a>
-=======
+						<!--		<i class="fa fa-envelope"></i><a href="mailto:">support@fireandicehosting.com</a>-->
 								<i class="fa fa-envelope"></i><a href="mailto:support@fireandicehosting.com">support@fireandicehosting.com</a>
->>>>>>> 93f3332178a398fc163af3d7a1a1d17355291cde
-
 							</div>
 
 						</div>
@@ -164,9 +138,5 @@
 			</div>
 
 		</div>
-
-<<<<<<< HEAD
 	</div>
-=======
 	</div>
->>>>>>> 93f3332178a398fc163af3d7a1a1d17355291cde

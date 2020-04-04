@@ -13,11 +13,11 @@
 			<div class="row">
 				<div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
 					<div class="social-media">
-						<a href=""><i class="fab fa-facebook"></i></a>
-						<a href=""><i class="fab fa-twitter"></i></a>
-						<a href=""><i class="fab fa-dribbble"></i></a>
+						<a href="https://www.facebook.com/FIHost"><i class="fab fa-facebook"></i></a>
+						<a href="https://twitter.com/fihosting"><i class="fab fa-twitter"></i></a>
+	<!--					<a href=""><i class="fab fa-dribbble"></i></a>
 						<a href=""><i class="fab fa-pinterest"></i></a>
-						<a href=""><i class="fab fa-linkedin"></i></a>
+						<a href=""><i class="fab fa-linkedin"></i></a>-->
 					</div>
 				</div>
 				<div class="col-lg-8 col-md-6 col-sm-12 col-xs-12">
