@@ -2,7 +2,6 @@
 
 [Main Stylesheet]
 
-Project:    	Pentahost - HTML Template
 Version:    	1.0
 Last Change:  01/03/2019
 Primary Use:  Web Hosting
@@ -49,7 +48,7 @@ Primary Use:  Web Hosting
 
 -------------------------------------------*/
 
-/*** 
+/***
 
 ====================================================================
 	Google Fonts
@@ -64,7 +63,7 @@ font-family: 'Poppins', sans-serif;
 
 
 
-/*** 
+/***
 
 ====================================================================
   Icon Font
@@ -137,7 +136,7 @@ font-family: 'Poppins', sans-serif;
 
 
 
-/*** 
+/***
 
 ====================================================================
 	Reset Css
@@ -152,7 +151,7 @@ font-family: 'Poppins', sans-serif;
   outline: none;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Global Settings
@@ -284,7 +283,7 @@ img {
 }
 
 
-/*** 
+/***
 
 ====================================================================
    Section Styles
@@ -307,7 +306,7 @@ img {
 }
 
 
-/*** 
+/***
 
 ====================================================================
    Colors
@@ -327,7 +326,7 @@ img {
 }
 
 
-/*** 
+/***
 
 ====================================================================
    Margin and Padding
@@ -335,7 +334,7 @@ img {
 
  ***/
 
-/* 
+/*
    Margin Top styles
    */
 .mar-0 {
@@ -367,7 +366,7 @@ img {
 }
 
 
-/* 
+/*
    Margin Bottom Styles
     */
 .mb-10 {
@@ -395,7 +394,7 @@ img {
 }
 
 
-/* 
+/*
    Margin Right Styles
     */
 .mr-10 {
@@ -423,7 +422,7 @@ img {
 }
 
 
-/* 
+/*
    Padding Top Styles
    */
 .pad-0 {
@@ -455,7 +454,7 @@ img {
 }
 
 
-/* 
+/*
    Padding Bottom Styles
 */
 .pb-10 {
@@ -483,7 +482,7 @@ img {
 }
 
 
-/*** 
+/***
 
 ====================================================================
    Background Overlay
@@ -517,7 +516,7 @@ img {
 
 
 
-/*** 
+/***
 
 ====================================================================
    Buttons Styles
@@ -617,10 +616,10 @@ img {
 
 
 
-/* 
+/*
 ==============================
-   ScrollUp Button 
-============================== 
+   ScrollUp Button
+==============================
 */
 
 a#scrollUp {
@@ -3839,14 +3838,14 @@ Responsive CSS codes
 
 
 
-/* 
+/*
   ##Device = Laptops, Desktops
   ##Screen = B/w 1025px to 1280px
 */
 
 @media (min-width: 1025px) and (max-width: 1280px) {}
 
-/* 
+/*
   ##Device = Tablets, Ipads (portrait)
   ##Screen = B/w 768px to 1024px
 */
@@ -3927,7 +3926,7 @@ Responsive CSS codes
 
 }
 
-/* 
+/*
   ##Device = Tablets, Ipads (landscape)
   ##Screen = B/w 768px to 1024px
 */
@@ -4016,7 +4015,7 @@ Responsive CSS codes
 
 }
 
-/* 
+/*
   ##Device = Low Resolution Tablets, Mobiles (Landscape)
   ##Screen = B/w 481px to 767px
 */
@@ -4121,7 +4120,7 @@ Responsive CSS codes
 
 }
 
-/* 
+/*
   ##Device = Most of the Smartphones Mobiles (Portrait)
   ##Screen = B/w 320px to 479px
 */
