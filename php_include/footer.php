@@ -12,9 +12,8 @@
 
 						<img src="assets/images/logo.png" alt="">
 
-						<p>Folly was these three and songs arose whose. Of in vicinity contempt together in possible
-
-							branched.</p>
+						<p>Here at Fire & Ice Hosting we strive to provide the highest quality server solutions to the public,
+							 whether it's a game server or one of our VPS solutions for general purpose computing.</p>
 
 						<div class="social-media">
 							<a href="https://www.facebook.com/FIHost"><i class="fab fa-facebook"></i></a>
