@@ -65,35 +65,23 @@
 										</li>
 									</ul>
 								</li>
-								<li class="nav-item"><a class="nav-link" href="domain">Domains</a></li>
 								<li class="nav-item dropdown submenu">
 									<a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown"
 										aria-haspopup="true" aria-expanded="false">
 										Hosting <i class="fas fa-angle-down"></i>
 									</a>
 									<ul class="dropdown-menu">
-										<li class="nav-item"><a class="nav-link" href="shared-hosting">Shared
+										<li class="nav-item"><a class="nav-link" href="minecraft-hosting">Minecraft
 												Hosting</a></li>
-										<li class="nav-item"><a class="nav-link" href="cloud-hosting">Cloud
-												Hosting</a></li>
-										<li class="nav-item"><a class="nav-link" href="vps-hosting">VPS Hosting</a>
+										<!--<li class="nav-item"><a class="nav-link" href="cloud-hosting">Cloud
+												Hosting</a></li>-->
+										<li class="nav-item"><a class="nav-link" href="fx-hosting">FiveM Hosting</a>
 										</li>
-										<li class="nav-item"><a class="nav-link" href="dedicated-hosting">Dedicated
+										<li class="nav-item"><a class="nav-link" href="vps-hosting">VPS
 												Hosting</a></li>
 									</ul>
 								</li>
 								<li class="nav-item"><a class="nav-link" href="contact">Contact</a></li>
-								<li class="nav-item dropdown submenu">
-									<a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown"
-										aria-haspopup="true" aria-expanded="false">
-										Blog <i class="fas fa-angle-down"></i>
-									</a>
-									<ul class="dropdown-menu">
-										<li class="nav-item"><a class="nav-link" href="blog">Blog All</a></li>
-										<li class="nav-item"><a class="nav-link" href="blog-details">Blog
-												Details</a></li>
-									</ul>
-								</li>
 								<li class="nav-item"><a class="nav-link" href="account">Account</a></li>
 							</ul>
 						</div>

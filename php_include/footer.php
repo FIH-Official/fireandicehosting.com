@@ -19,7 +19,7 @@
 						<div class="social-media">
 							<a href="https://www.facebook.com/FIHost"><i class="fab fa-facebook"></i></a>
 							<a href="https://twitter.com/fihosting"><i class="fab fa-twitter"></i></a>
-						<a href="https://discord.fireandicehosting.com/"><i class="fab fa-discord"></i></a>s
+						<a href="https://discord.gg/Z4kq567"><i class="fab fa-discord"></i></a>
 						</div>
 					</div>
 				</div>
@@ -38,13 +38,17 @@
 
 								<li><a href="./about">About</a></li>
 
-								<li><a href="./domain">Domain</a></li>
-
-								<li><a href="./cloudhosting">Hosting</a></li>
+								<li class="nav-item dropdown submenu"
+									<a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown"
+										aria-haspopup="true" aria-expanded="false">
+										Hosting <i class="fas fa-angle-down"></i>
+									</a>
+									<ul class="dropdown-menu">
+										<li class="nav-item"><a class="nav-link" href="minecraft-hosting">Minecraft</a></li>
+										<li class="nav-item"><a class="nav-link" href="fx-hosting">FiveM</a></li>
+										<li class="nav-item"><a class="nav-link" href="vps-hosting">VPS</a></li>
 
 								<li><a href="./index">Security</a></li>
-
-								<li><a href="./blog">Blog</a></li>
 							</ul>
 
 						</div>

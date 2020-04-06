@@ -15,8 +15,8 @@
 						<h2>Contact us</h2>
 						<div class="custom-hero-breadcrumb">
 							<ul>
-								<li><a href="index.html">Home</a></li>
-								<li>Contact</li>
+								<li><a href="index">Home</a></li>
+								<li> Contact</li>
 							</ul>
 						</div>
 					</div>
