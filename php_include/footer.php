@@ -30,7 +30,7 @@
 						<h3>Quick Link</h3>
 
 						<div class="footer-menu">
-						<div class="collapse navbar-collapse" id="navbarSupportedContent">
+						<div style="color:white;"class="collapse navbar-collapse" id="navbarSupportedContent">
 
 							<ul>
 
