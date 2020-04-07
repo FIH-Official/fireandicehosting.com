@@ -22,6 +22,14 @@ $email_subject = "FIH Contact Form:  $name";
 $email_body = "You have received a new message from FIH's contact form.\n\n"."Here are the details:\n\nName: $name\n\nEmail: $email_address\n\n Number: $number \n\n Message:\n$text";
 $headers = "From: no-reply@fireandicehosting.com\n"; // This is the email address the generated message will be from. We recommend using something like noreply@yourdomain.com.
 $headers .= "Reply-To: $email_address";
-mail($to,$email_subject,$email_body,$headers);
-return false;
+// mail($to,$email_subject,$email_body,$headers);
+// return true;
+if(mail($to,$email_subject,$email_body,$headers))
+{
+	echo "<script>alert('Success!:\n<?php echo $message;?>');</script>";
+    echo "<script>document.location.href='./contact'</script>";
+}
+
+return true;
+    
 ?>
