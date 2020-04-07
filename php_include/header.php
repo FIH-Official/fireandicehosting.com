@@ -13,8 +13,7 @@
 	<meta name="twitter:description"
 		content="A hosting company that offers affordable reliable and efficient gaming, website and bot hosting servers for an affordable price">
 	<meta name="twitter:image" content="./assets/images/logo.png">
-	<link rel="shortcut icon" href="./assets/images/favicon.ico"
-		type="image/x-icon">
+	<link rel="shortcut icon" href="./assets/images/favicon.ico" type="image/ico">
 	<link rel="icon" href="https://testing-templates.hunterswebdesigns.ml/assets/images/logo.png" type="image/x-icon">
 
 	<meta name="title" content="Fire & Ice Hosting&trade; ">
