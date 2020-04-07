@@ -30,10 +30,10 @@
 						<h3>Quick Link</h3>
 
 						<div class="footer-menu">
-						<div style="color:white;"class="collapse navbar-collapse" id="navbarSupportedContent">
+						
 
 							<ul>
-
+							<div style="color:white;"class="collapse navbar-collapse" id="navbarSupportedContent">
 								<li><a href="./index">Home</a></li>
 
 								<li><a href="./about">About</a></li>
@@ -47,9 +47,10 @@
 								
 								<li class="nav-item"><a href="./contact" class="nav-link">Contact Us</a></li>
 								<li class="nav-item"><a href="./account" class="nav-link">Account</a></li>
+								</div>
 							</ul>
 
-						</div>
+						
 						</div>
 					</div>
 
