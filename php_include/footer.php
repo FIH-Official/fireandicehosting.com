@@ -38,12 +38,13 @@
 								<li><a href="./about">About</a></li>
 
 								<li class="nav-item dropdown submenu"><a href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="nav-link dropdown-toggle">Hosting <i class="fas-fa-angle-down"></i></a>
+								
+								</li>
 								<ul class="dropdown-menu">
 									<li class="nav-item"><a href="./minecraft-hosting" class="nav-link">Minecraft Hosting</a></li>
 									<li class="nav-item"><a href="./fx-hosting" class="nav-link">FiveM Hosting</a></li>
 									<li class="nav-item"><a href="./vps-hosting" class="nav-link">VPS</a></li>
 								</ul>
-								</li>
 								<li class="nav-item"><a href="./contact" class="nav-link">Contact Us</a></li>
 								<li class="nav-item"><a href="./account" class="nav-link">Account</a></li>
 							</ul>
