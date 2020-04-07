@@ -12,11 +12,11 @@
 			<div class="row cl-white">
 				<div class="col-lg-8 col-md-6">
 					<div class="custom-hero-title">
-						<h2>Dedicated Hosting</h2>
+						<h2>Minecraft Hosting</h2>
 						<div class="custom-hero-breadcrumb">
 							<ul>
 								<li><a href="index.html">Home</a></li>
-								<li>Dedicated Hosting</li>
+								<li>Minecraft Hosting</li>
 							</ul>
 						</div>
 					</div>
@@ -37,7 +37,7 @@
 					<img class="mb-30" src="assets/images/dedicated-hosting.png" alt="">
 				</div>
 				<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-					<h2 class="mb-20">Dedicated Hosting</h2>
+					<h2 class="mb-20">Minecraft Hosting</h2>
 					<p>As absolute is by amounted repeated entirely ye returned. These ready timed enjoy might sir yet
 						one since. Years drift never if could forty being no. On estimable dependent as suffering on my.
 					</p>

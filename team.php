@@ -42,14 +42,11 @@
 				<div class="col-lg-3 col-md-6 col-sm-12 wow fadeInLeft" data-wow-delay="0.4s">
 					<div class="single-team">
 						<img src="assets/images/team1.png" alt="">
-						<h4>Adan Pagana</h4>
+						<h4>Seth Blevins</h4>
 						<p>Ceo & Founder</p>
 						<div class="team-social">
-							<a href=""><i class="fa fa-facebook"></i></a>
-							<a href=""><i class="fa fa-twitter"></i></a>
-							<a href=""><i class="fa fa-dribbble"></i></a>
-							<a href=""><i class="fa fa-pinterest"></i></a>
-							<a href=""><i class="fa fa-linkedin"></i></a>
+							<a href=""><i class="fab fa-discord"></i></a>
+							<a href=""><i class="fab fa-linkedin"></i></a>
 						</div>
 					</div>
 				</div>
@@ -61,12 +58,12 @@
 						<div class="team-social">
 							<a href=""><i class="fa fa-facebook"></i></a>
 							<a href=""><i class="fa fa-twitter"></i></a>
-							<a href=""><i class="fa fa-dribbble"></i></a>
-							<a href=""><i class="fa fa-pinterest"></i></a>
-							<a href=""><i class="fa fa-linkedin"></i></a>
+							<a href=""><i class="fab fa-discord"></i></a>
+							<a href=""><i class="fab fa-linkedin"></i></a>
 						</div>
 					</div>
 				</div>
+			<!--
 				<div class="col-lg-3 col-md-6 col-sm-12 wow fadeInLeft" data-wow-delay="0.6s">
 					<div class="single-team">
 						<img src="assets/images/team3.png" alt="">
@@ -153,7 +150,7 @@
 				</div>
 			</div>
 		</div>
-	</section>
+	</section>-->
 	<!--/Team Area-->
 
 	<!--Faq Area-->

@@ -11,11 +11,11 @@
 			<div class="row cl-white">
 				<div class="col-lg-8 col-md-6">
 					<div class="custom-hero-title">
-						<h2>Shared Hosting</h2>
+						<h2>FiveM Server Hosting</h2>
 						<div class="custom-hero-breadcrumb">
 							<ul>
 								<li><a href="index.html">Home</a></li>
-								<li>Shared Hosting</li>
+								<li>FiveM Hosting</li>
 							</ul>
 						</div>
 					</div>
@@ -34,7 +34,7 @@
 			<div class="row single-services">
 				<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 wow fadeInLeft" data-wow-delay="0.3s">
 					<div class="services-content">
-						<h2 class="mb-20">Shared Hosting</h2>
+						<h2 class="mb-20">FiveM Hosting</h2>
 						<p>As absolute is by amounted repeated entirely ye returned. These ready timed enjoy might sir
 							yet one since. Years drift never if could forty being no. On estimable dependent as
 							suffering on my.</p>
