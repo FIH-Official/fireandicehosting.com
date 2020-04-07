@@ -46,7 +46,19 @@
 										<li class="nav-item"><a style="color:blue" class="nav-link hoveredon" href="fx-hosting">FiveM</a></li>
 										<li class="nav-item"><a style="color:blue" class="nav-link hoveredon" href="vps-hosting">VPS</a></li>
 										</ul>
-								<li><a href="./index">Security</a></li>
+								<li>
+								<li class="nav-item dropdown submenu">
+									<a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+										Ways To Contact Us
+									</a>
+									<ul class="dropdown-menu" id="#dropdown">
+										<li class="nav-item"><a style="color:blue" class="nav-link hoveredon" href="https://discord.gg/Z4kq567"><i class="fab fa-discord"></i> Discord</a></li>
+										<li class="nav-item"><a style="color:blue" class="nav-link hoveredon" href="./contact"><i class="far fa-address-card"></i> Site Contact Form</a></li>
+										<li class="nav-item"><a style="color:blue" class="nav-link hoveredon" href="tel:6812389458"><i class="fas fa-phone-alt"></i> (681) 238 9458 </a></li>
+										</ul>
+								<li>
+								<a href="./index">Security</a></li>
+
 							</ul>
 
 						</div>
