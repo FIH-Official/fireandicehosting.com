@@ -5,7 +5,7 @@
 	<meta name="og:title" content="Fire & Ice Hosting&trade;">
 	<meta name="og:description"
 		content="A hosting company that offers affordable reliable and efficient gaming, website and bot hosting servers for an affordable price">
-	<meta name="theme-color" content="#34baeb">
+	<meta name="theme-color" content="#FF8C00">
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:site" content="@f&ihosting" />
 	<meta name="twitter:creator" content="@Sethb" />
