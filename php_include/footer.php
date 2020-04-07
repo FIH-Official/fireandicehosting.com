@@ -37,7 +37,7 @@
 
 								<li><a href="./about">About</a></li>
 
-								<li class="nav-item dropdown submenu">
+								<li class="nav-item dropdown">
 									<a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 										Hosting
 									</a>
@@ -47,7 +47,7 @@
 										<li class="nav-item"><a style="color:blue" class="nav-link hoveredon" href="vps-hosting">VPS</a></li>
 										</ul>
 								<li>
-								<li class="nav-item dropdown submenu">
+								<li class="nav-item dropdown">
 									<a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 										Ways To Contact Us
 									</a>
