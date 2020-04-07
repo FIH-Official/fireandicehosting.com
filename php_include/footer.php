@@ -1,6 +1,6 @@
 <!--Footer Area-->
 
-	<footer class="footer-area section-padding">
+	<footer class="footer-area section-padding" id="footer-information">
 
 		<div class="container">
 
