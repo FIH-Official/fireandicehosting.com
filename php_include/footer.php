@@ -39,7 +39,7 @@
 
 								<li class="nav-item dropdown submenu">
 									<a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-										Hosting <i class="fas fa-angle-down"></i>
+										Hosting
 									</a>
 									<ul class="dropdown-menu">
 										<li class="nav-item"><a class="nav-link" href="minecraft-hosting">Minecraft</a></li>
