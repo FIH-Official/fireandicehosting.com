@@ -15,7 +15,7 @@
 	<meta name="twitter:image" content="./assets/images/logo.png">
 	<link rel="shortcut icon" href="./assets/images/icon.png" type="image/png">
 	<link rel="icon" href="https://testing-templates.hunterswebdesigns.ml/assets/images/logo.png" type="image/x-icon">
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<!--<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">-->
 
 	<meta name="title" content="Fire & Ice Hosting&trade; ">
 	<meta name="keywords" content="hosting company, website hosting, game server hosting">

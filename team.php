@@ -159,7 +159,7 @@
 			<div class="row justify-content-center">
 				<div class="col-lg-8 col-md-12 col-sm-12 col-xs-12 centered wow fadeInUp" data-wow-delay="0.3s">
 					<div class="section-title">
-						<h2 class="cl-black">Some Question & Answer</h2>
+						<h2 class="cl-black">Questions & Answers</h2>
 					</div>
 				</div>
 			</div>
