@@ -3,15 +3,15 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="og:title" content="Fire & Ice Hosting&trade;">
-	<meta name="og:description"
-		content="A hosting company that offers affordable reliable and efficient gaming, website and bot hosting servers for an affordable price">
+	<meta name="og:image" content="./assets/images/logo.png">
+	<meta name="og:image-type" content="image/png">
+	<meta name="og:description" content="A hosting company that offers affordable reliable and efficient gaming, website and bot hosting servers for an affordable price">
 	<meta name="theme-color" content="#FF8C00">
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:site" content="@f&ihosting" />
 	<meta name="twitter:creator" content="@Sethb" />
 	<meta name="twitter:title" content="Fire & Ice Hosting&trade;">
-	<meta name="twitter:description"
-		content="A hosting company that offers affordable reliable and efficient gaming, website and bot hosting servers for an affordable price">
+	<meta name="twitter:description" content="A hosting company that offers affordable reliable and efficient gaming, website and bot hosting servers for an affordable price">
 	<meta name="twitter:image" content="./assets/images/logo.png">
 	<link rel="shortcut icon" href="./assets/images/icon.png" type="image/png">
 	<link rel="icon" href="https://testing-templates.hunterswebdesigns.ml/assets/images/logo.png" type="image/x-icon">
