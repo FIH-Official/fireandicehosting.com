@@ -46,7 +46,7 @@
 										<li class="nav-item"><a class="nav-link" href="minecraft-hosting">Minecraft</a></li>
 										<li class="nav-item"><a class="nav-link" href="fx-hosting">FiveM</a></li>
 										<li class="nav-item"><a class="nav-link" href="vps-hosting">VPS</a></li>
-
+										</ul>
 								<li><a href="./index">Security</a></li>
 							</ul>
 
