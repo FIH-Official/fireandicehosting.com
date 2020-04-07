@@ -42,9 +42,9 @@
 										Hosting
 									</a>
 									<ul class="dropdown-menu">
-										<li class="nav-item"><a style="color:blue" class="nav-link" href="minecraft-hosting">Minecraft</a></li>
-										<li class="nav-item"><a class="nav-link" href="fx-hosting">FiveM</a></li>
-										<li class="nav-item"><a class="nav-link" href="vps-hosting">VPS</a></li>
+										<li class="nav-item"><a style="color:blue" class="nav-link hoveredon" href="minecraft-hosting">Minecraft</a></li>
+										<li class="nav-item"><a style="color:blue" class="nav-link hoveredon" href="fx-hosting">FiveM</a></li>
+										<li class="nav-item"><a style="color:blue" class="nav-link hoveredon" href="vps-hosting">VPS</a></li>
 										</ul>
 								<li><a href="./index">Security</a></li>
 							</ul>

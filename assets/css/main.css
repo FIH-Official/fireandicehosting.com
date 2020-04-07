@@ -737,7 +737,17 @@ a#scrollUp:hover {
   position: relative;
 }
 
-.navbar .navbar-nav>.nav-item>.nav-link i {}
+.hoveredon {
+  color: rgb(4, 0, 255);
+}
+
+.hoveredon:hover {
+  color: rgba(4, 0, 255, 0.842);
+}
+
+.navbar .navbar-nav>.nav-item>.nav-link i {
+  font-size: 1.5rem;
+}
 
 .user-icon {
   margin-right: 7px;
