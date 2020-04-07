@@ -41,7 +41,7 @@
 									<a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 										Hosting
 									</a>
-									<ul class="dropdown-menu">
+									<ul class="dropdown-menu" id="#dropdown">
 										<li class="nav-item"><a style="color:blue" class="nav-link hoveredon" href="minecraft-hosting">Minecraft</a></li>
 										<li class="nav-item"><a style="color:blue" class="nav-link hoveredon" href="fx-hosting">FiveM</a></li>
 										<li class="nav-item"><a style="color:blue" class="nav-link hoveredon" href="vps-hosting">VPS</a></li>
