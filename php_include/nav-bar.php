@@ -23,8 +23,8 @@
 				<div class="col-lg-8 col-md-6 col-sm-12 col-xs-12">
 					<div class="header-top-menu">
 						<ul>
-							<li><a href="">Terms & Conditions</a></li>
-							<li><a href="">Contact Us</a></li>
+							<li><a href="tos.php">Terms & Conditions</a></li>
+							<li><a href="contact">Contact Us</a></li>
 						</ul>
 					</div>
 				</div>
