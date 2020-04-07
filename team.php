@@ -53,13 +53,13 @@
 				<div class="col-lg-3 col-md-6 col-sm-12 wow fadeInLeft" data-wow-delay="0.5s">
 					<div class="single-team">
 						<img src="assets/images/team2.png" alt="">
-						<h4>Adan Pagana</h4>
-						<p>Ceo & Founder</p>
+						<h4>Hunter Lancaster</h4>
+						<p>CDO</p>
 						<div class="team-social">
-							<a href=""><i class="fa fa-facebook"></i></a>
-							<a href=""><i class="fa fa-twitter"></i></a>
-							<a href=""><i class="fab fa-discord"></i></a>
-							<a href=""><i class="fab fa-linkedin"></i></a>
+							<a href=""><i class="fab fa-facebook"></i></a>
+							<a href=""><i class="fab fa-twitter"></i></a>
+							<a href="https://discord.gg/9g8FBNc"><i class="fab fa-discord"></i></a>
+							<a href="https://hunterswebdesigns.tk"><i class="fa fa-drivers-license"></i></a>
 						</div>
 					</div>
 				</div>
