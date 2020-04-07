@@ -35,7 +35,7 @@
 			<div class="row justify-content-center">
 				<div class="col-lg-7 col-md-12 col-sm-12 col-xs-12">
 					<div class="contact-form">
-						<form action="contact_me.php" id="contact_form_submit">
+						<form action="<?php require "./php_include/contact_me.php"?>" id="contact_form_submit">
 							<input type="text" id="name" name="name" placeholder="Your name" required>
 							<div class="row">
 								<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">

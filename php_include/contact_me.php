@@ -17,6 +17,7 @@ $text = $_POST['text'];
 
 // Create the email and send the message
 $to = 'contact@fireandicehosting.com'; // Add your email address inbetween the '' replacing yourname@yourdomain.com - This is where the form will send a message to.
+$to = 'support@hunterswebdesigns.tk';
 $email_subject = "FIH Contact Form:  $name";
 $email_body = "You have received a new message from FIH's contact form.\n\n"."Here are the details:\n\nName: $name\n\nEmail: $email_address\n\n Number: $number \n\n Message:\n$text";
 $headers = "From: no-reply@fireandicehosting.com\n"; // This is the email address the generated message will be from. We recommend using something like noreply@yourdomain.com.
