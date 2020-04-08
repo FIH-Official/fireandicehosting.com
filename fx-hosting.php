@@ -14,7 +14,7 @@
 						<h2>FiveM Server Hosting</h2>
 						<div class="custom-hero-breadcrumb">
 							<ul>
-								<li><a href="index.html">Home</a></li>
+								<li><a href="index">Home</a></li>
 								<li>FiveM Hosting</li>
 							</ul>
 						</div>

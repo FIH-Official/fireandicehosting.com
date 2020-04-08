@@ -15,6 +15,7 @@
 					<div class="social-media">
 						<a href="https://www.facebook.com/FIHost"><i class="fab fa-facebook"></i></a>
 						<a href="https://twitter.com/fihosting"><i class="fab fa-twitter"></i></a>
+						<a href="https://discord.gg/Z4kq567"><i class="fab fa-discord"></i></a>
 	<!--					<a href=""><i class="fab fa-dribbble"></i></a>
 						<a href=""><i class="fab fa-pinterest"></i></a>
 						<a href=""><i class="fab fa-linkedin"></i></a>-->
