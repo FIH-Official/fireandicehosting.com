@@ -135,8 +135,6 @@
 
 	<!--/Footer Area-->
 
-
-
 	<div class="copyright-text">
 
 		<div class="container">
@@ -145,7 +143,7 @@
 
 				<div class="col centered">
 
-					<p>&copy; <script>document.write(new Date().getFullYear())</script> All Rights Reserved&reg; &mdash; <a href="https://fireandicehosting.com">Fire & Ice Hosting&trade;</a></p>
+					<p>&copy; <script>document.write(new Date().getFullYear())</script> All Rights Reserved &reg; &mdash; <a href="https://fireandicehosting.com">Fire & Ice Hosting</a></p>
 
 				</div>
 
