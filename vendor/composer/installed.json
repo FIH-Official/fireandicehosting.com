@@ -1,5 +1,680 @@
 [
     {
+        "name": "composer/xdebug-handler",
+        "version": "1.4.1",
+        "version_normalized": "1.4.1.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/composer/xdebug-handler.git",
+            "reference": "1ab9842d69e64fb3a01be6b656501032d1b78cb7"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/composer/xdebug-handler/zipball/1ab9842d69e64fb3a01be6b656501032d1b78cb7",
+            "reference": "1ab9842d69e64fb3a01be6b656501032d1b78cb7",
+            "shasum": ""
+        },
+        "require": {
+            "php": "^5.3.2 || ^7.0 || ^8.0",
+            "psr/log": "^1.0"
+        },
+        "require-dev": {
+            "phpunit/phpunit": "^4.8.35 || ^5.7 || 6.5 - 8"
+        },
+        "time": "2020-03-01T12:26:26+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Composer\\XdebugHandler\\": "src"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "John Stevenson",
+                "email": "john-stevenson@blueyonder.co.uk"
+            }
+        ],
+        "description": "Restarts a process without Xdebug.",
+        "keywords": [
+            "Xdebug",
+            "performance"
+        ],
+        "funding": [
+            {
+                "url": "https://packagist.com",
+                "type": "custom"
+            }
+        ]
+    },
+    {
+        "name": "felixfbecker/advanced-json-rpc",
+        "version": "v3.1.1",
+        "version_normalized": "3.1.1.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/felixfbecker/php-advanced-json-rpc.git",
+            "reference": "0ed363f8de17d284d479ec813c9ad3f6834b5c40"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/felixfbecker/php-advanced-json-rpc/zipball/0ed363f8de17d284d479ec813c9ad3f6834b5c40",
+            "reference": "0ed363f8de17d284d479ec813c9ad3f6834b5c40",
+            "shasum": ""
+        },
+        "require": {
+            "netresearch/jsonmapper": "^1.0 || ^2.0",
+            "php": ">=7.0",
+            "phpdocumentor/reflection-docblock": "^4.0.0 || ^5.0.0"
+        },
+        "require-dev": {
+            "phpunit/phpunit": "^6.0.0"
+        },
+        "time": "2020-03-11T15:21:41+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "AdvancedJsonRpc\\": "lib/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "ISC"
+        ],
+        "authors": [
+            {
+                "name": "Felix Becker",
+                "email": "felix.b@outlook.com"
+            }
+        ],
+        "description": "A more advanced JSONRPC implementation"
+    },
+    {
+        "name": "felixfbecker/language-server",
+        "version": "v5.4.6",
+        "version_normalized": "5.4.6.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/felixfbecker/php-language-server.git",
+            "reference": "1da3328bc23ebd6418529035d357481c8c028640"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/felixfbecker/php-language-server/zipball/1da3328bc23ebd6418529035d357481c8c028640",
+            "reference": "1da3328bc23ebd6418529035d357481c8c028640",
+            "shasum": ""
+        },
+        "require": {
+            "composer/xdebug-handler": "^1.0",
+            "felixfbecker/advanced-json-rpc": "^3.0.0",
+            "felixfbecker/language-server-protocol": "^1.0.1",
+            "jetbrains/phpstorm-stubs": "dev-master",
+            "microsoft/tolerant-php-parser": "0.0.*",
+            "netresearch/jsonmapper": "^1.0",
+            "php": "^7.0",
+            "phpdocumentor/reflection-docblock": "^4.0.0",
+            "psr/log": "^1.0",
+            "sabre/event": "^5.0",
+            "sabre/uri": "^2.0",
+            "webmozart/glob": "^4.1",
+            "webmozart/path-util": "^2.3"
+        },
+        "require-dev": {
+            "phpunit/phpunit": "^6.3",
+            "squizlabs/php_codesniffer": "^3.1"
+        },
+        "time": "2018-11-13T17:33:21+00:00",
+        "bin": [
+            "bin/php-language-server.php"
+        ],
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "LanguageServer\\": "src/"
+            },
+            "files": [
+                "src/utils.php",
+                "src/FqnUtilities.php",
+                "src/ParserHelpers.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "ISC"
+        ],
+        "authors": [
+            {
+                "name": "Felix Becker",
+                "email": "felix.b@outlook.com"
+            }
+        ],
+        "description": "PHP Implementation of the Visual Studio Code Language Server Protocol",
+        "keywords": [
+            "autocompletion",
+            "code",
+            "intellisense",
+            "language",
+            "microsoft",
+            "php",
+            "refactor",
+            "server",
+            "studio",
+            "visual"
+        ]
+    },
+    {
+        "name": "felixfbecker/language-server-protocol",
+        "version": "v1.4.0",
+        "version_normalized": "1.4.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/felixfbecker/php-language-server-protocol.git",
+            "reference": "378801f6139bb74ac215d81cca1272af61df9a9f"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/felixfbecker/php-language-server-protocol/zipball/378801f6139bb74ac215d81cca1272af61df9a9f",
+            "reference": "378801f6139bb74ac215d81cca1272af61df9a9f",
+            "shasum": ""
+        },
+        "require": {
+            "php": "^7.0"
+        },
+        "require-dev": {
+            "phpstan/phpstan": "*",
+            "phpunit/phpunit": "^6.3",
+            "squizlabs/php_codesniffer": "^3.1"
+        },
+        "time": "2019-06-23T21:03:50+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "LanguageServerProtocol\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "ISC"
+        ],
+        "authors": [
+            {
+                "name": "Felix Becker",
+                "email": "felix.b@outlook.com"
+            }
+        ],
+        "description": "PHP classes for the Language Server Protocol",
+        "keywords": [
+            "language",
+            "microsoft",
+            "php",
+            "server"
+        ]
+    },
+    {
+        "name": "jetbrains/phpstorm-stubs",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/JetBrains/phpstorm-stubs.git",
+            "reference": "84392cc7b7a66c6eb6d21f7d7cda540ad1e7da65"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/JetBrains/phpstorm-stubs/zipball/84392cc7b7a66c6eb6d21f7d7cda540ad1e7da65",
+            "reference": "84392cc7b7a66c6eb6d21f7d7cda540ad1e7da65",
+            "shasum": ""
+        },
+        "require-dev": {
+            "nikic/php-parser": "^4",
+            "php": "^7.4",
+            "phpdocumentor/reflection-docblock": "^4.3",
+            "phpunit/phpunit": "^7"
+        },
+        "time": "2020-04-09T12:26:55+00:00",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "files": [
+                "PhpStormStubsMap.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "Apache-2.0"
+        ],
+        "description": "PHP runtime & extensions header files for PhpStorm",
+        "homepage": "https://www.jetbrains.com/phpstorm",
+        "keywords": [
+            "autocomplete",
+            "code",
+            "inference",
+            "inspection",
+            "jetbrains",
+            "phpstorm",
+            "stubs",
+            "type"
+        ]
+    },
+    {
+        "name": "microsoft/tolerant-php-parser",
+        "version": "v0.0.20",
+        "version_normalized": "0.0.20.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/microsoft/tolerant-php-parser.git",
+            "reference": "c5e2bf5d8c9f4f27eef1370bd39ea2d1f374eeb4"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/microsoft/tolerant-php-parser/zipball/c5e2bf5d8c9f4f27eef1370bd39ea2d1f374eeb4",
+            "reference": "c5e2bf5d8c9f4f27eef1370bd39ea2d1f374eeb4",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=7.0"
+        },
+        "require-dev": {
+            "phpunit/phpunit": "^6.4"
+        },
+        "time": "2020-02-18T02:57:19+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Microsoft\\PhpParser\\": [
+                    "src/"
+                ]
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Rob Lourens",
+                "email": "roblou@microsoft.com"
+            }
+        ],
+        "description": "Tolerant PHP-to-AST parser designed for IDE usage scenarios"
+    },
+    {
+        "name": "netresearch/jsonmapper",
+        "version": "v1.6.0",
+        "version_normalized": "1.6.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/cweiske/jsonmapper.git",
+            "reference": "0d4d1b48d682a93b6bfedf60b88c7750e9cb0b06"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/cweiske/jsonmapper/zipball/0d4d1b48d682a93b6bfedf60b88c7750e9cb0b06",
+            "reference": "0d4d1b48d682a93b6bfedf60b88c7750e9cb0b06",
+            "shasum": ""
+        },
+        "require": {
+            "ext-json": "*",
+            "ext-pcre": "*",
+            "ext-reflection": "*",
+            "ext-spl": "*",
+            "php": ">=5.6"
+        },
+        "require-dev": {
+            "phpunit/phpunit": "~4.8.35 || ~5.7 || ~6.4",
+            "squizlabs/php_codesniffer": "~1.5"
+        },
+        "time": "2019-08-15T19:41:25+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-0": {
+                "JsonMapper": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "OSL-3.0"
+        ],
+        "authors": [
+            {
+                "name": "Christian Weiske",
+                "email": "cweiske@cweiske.de",
+                "homepage": "http://github.com/cweiske/jsonmapper/",
+                "role": "Developer"
+            }
+        ],
+        "description": "Map nested JSON structures onto PHP classes"
+    },
+    {
+        "name": "phpdocumentor/reflection-common",
+        "version": "1.0.1",
+        "version_normalized": "1.0.1.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/phpDocumentor/ReflectionCommon.git",
+            "reference": "21bdeb5f65d7ebf9f43b1b25d404f87deab5bfb6"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/phpDocumentor/ReflectionCommon/zipball/21bdeb5f65d7ebf9f43b1b25d404f87deab5bfb6",
+            "reference": "21bdeb5f65d7ebf9f43b1b25d404f87deab5bfb6",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.5"
+        },
+        "require-dev": {
+            "phpunit/phpunit": "^4.6"
+        },
+        "time": "2017-09-11T18:02:19+00:00",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "1.0.x-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "phpDocumentor\\Reflection\\": [
+                    "src"
+                ]
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Jaap van Otterdijk",
+                "email": "opensource@ijaap.nl"
+            }
+        ],
+        "description": "Common reflection classes used by phpdocumentor to reflect the code structure",
+        "homepage": "http://www.phpdoc.org",
+        "keywords": [
+            "FQSEN",
+            "phpDocumentor",
+            "phpdoc",
+            "reflection",
+            "static analysis"
+        ]
+    },
+    {
+        "name": "phpdocumentor/reflection-docblock",
+        "version": "4.3.4",
+        "version_normalized": "4.3.4.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/phpDocumentor/ReflectionDocBlock.git",
+            "reference": "da3fd972d6bafd628114f7e7e036f45944b62e9c"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/phpDocumentor/ReflectionDocBlock/zipball/da3fd972d6bafd628114f7e7e036f45944b62e9c",
+            "reference": "da3fd972d6bafd628114f7e7e036f45944b62e9c",
+            "shasum": ""
+        },
+        "require": {
+            "php": "^7.0",
+            "phpdocumentor/reflection-common": "^1.0.0 || ^2.0.0",
+            "phpdocumentor/type-resolver": "~0.4 || ^1.0.0",
+            "webmozart/assert": "^1.0"
+        },
+        "require-dev": {
+            "doctrine/instantiator": "^1.0.5",
+            "mockery/mockery": "^1.0",
+            "phpdocumentor/type-resolver": "0.4.*",
+            "phpunit/phpunit": "^6.4"
+        },
+        "time": "2019-12-28T18:55:12+00:00",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "4.x-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "phpDocumentor\\Reflection\\": [
+                    "src/"
+                ]
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Mike van Riel",
+                "email": "me@mikevanriel.com"
+            }
+        ],
+        "description": "With this component, a library can provide support for annotations via DocBlocks or otherwise retrieve information that is embedded in a DocBlock."
+    },
+    {
+        "name": "phpdocumentor/type-resolver",
+        "version": "0.5.1",
+        "version_normalized": "0.5.1.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/phpDocumentor/TypeResolver.git",
+            "reference": "cf842904952e64e703800d094cdf34e715a8a3ae"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/phpDocumentor/TypeResolver/zipball/cf842904952e64e703800d094cdf34e715a8a3ae",
+            "reference": "cf842904952e64e703800d094cdf34e715a8a3ae",
+            "shasum": ""
+        },
+        "require": {
+            "php": "^7.0",
+            "phpdocumentor/reflection-common": "^1.0"
+        },
+        "require-dev": {
+            "mockery/mockery": "^1.0",
+            "phpunit/phpunit": "^6.4"
+        },
+        "time": "2017-12-30T13:23:38+00:00",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "1.0.x-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "phpDocumentor\\Reflection\\": "src"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Mike van Riel",
+                "email": "me@mikevanriel.com"
+            }
+        ]
+    },
+    {
+        "name": "psr/log",
+        "version": "1.1.3",
+        "version_normalized": "1.1.3.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/php-fig/log.git",
+            "reference": "0f73288fd15629204f9d42b7055f72dacbe811fc"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/php-fig/log/zipball/0f73288fd15629204f9d42b7055f72dacbe811fc",
+            "reference": "0f73288fd15629204f9d42b7055f72dacbe811fc",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.0"
+        },
+        "time": "2020-03-23T09:12:05+00:00",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "1.1.x-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Psr\\Log\\": "Psr/Log/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "PHP-FIG",
+                "homepage": "http://www.php-fig.org/"
+            }
+        ],
+        "description": "Common interface for logging libraries",
+        "homepage": "https://github.com/php-fig/log",
+        "keywords": [
+            "log",
+            "psr",
+            "psr-3"
+        ]
+    },
+    {
+        "name": "sabre/event",
+        "version": "5.0.3",
+        "version_normalized": "5.0.3.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/sabre-io/event.git",
+            "reference": "f5cf802d240df1257866d8813282b98aee3bc548"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/sabre-io/event/zipball/f5cf802d240df1257866d8813282b98aee3bc548",
+            "reference": "f5cf802d240df1257866d8813282b98aee3bc548",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=7.0"
+        },
+        "require-dev": {
+            "phpunit/phpunit": ">=6",
+            "sabre/cs": "~1.0.0"
+        },
+        "time": "2018-03-05T13:55:47+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Sabre\\Event\\": "lib/"
+            },
+            "files": [
+                "lib/coroutine.php",
+                "lib/Loop/functions.php",
+                "lib/Promise/functions.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "BSD-3-Clause"
+        ],
+        "authors": [
+            {
+                "name": "Evert Pot",
+                "email": "me@evertpot.com",
+                "homepage": "http://evertpot.com/",
+                "role": "Developer"
+            }
+        ],
+        "description": "sabre/event is a library for lightweight event-based programming",
+        "homepage": "http://sabre.io/event/",
+        "keywords": [
+            "EventEmitter",
+            "async",
+            "coroutine",
+            "eventloop",
+            "events",
+            "hooks",
+            "plugin",
+            "promise",
+            "reactor",
+            "signal"
+        ]
+    },
+    {
+        "name": "sabre/uri",
+        "version": "2.1.3",
+        "version_normalized": "2.1.3.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/sabre-io/uri.git",
+            "reference": "18f454324f371cbcabdad3d0d3755b4b0182095d"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/sabre-io/uri/zipball/18f454324f371cbcabdad3d0d3755b4b0182095d",
+            "reference": "18f454324f371cbcabdad3d0d3755b4b0182095d",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=7"
+        },
+        "require-dev": {
+            "phpunit/phpunit": "^6"
+        },
+        "time": "2019-09-09T23:00:25+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "files": [
+                "lib/functions.php"
+            ],
+            "psr-4": {
+                "Sabre\\Uri\\": "lib/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "BSD-3-Clause"
+        ],
+        "authors": [
+            {
+                "name": "Evert Pot",
+                "email": "me@evertpot.com",
+                "homepage": "http://evertpot.com/",
+                "role": "Developer"
+            }
+        ],
+        "description": "Functions for making sense out of URIs.",
+        "homepage": "http://sabre.io/uri/",
+        "keywords": [
+            "rfc3986",
+            "uri",
+            "url"
+        ]
+    },
+    {
         "name": "squizlabs/php_codesniffer",
         "version": "3.5.4",
         "version_normalized": "3.5.4.0",
@@ -51,5 +726,226 @@
             "phpcs",
             "standards"
         ]
+    },
+    {
+        "name": "symfony/polyfill-ctype",
+        "version": "v1.15.0",
+        "version_normalized": "1.15.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/symfony/polyfill-ctype.git",
+            "reference": "4719fa9c18b0464d399f1a63bf624b42b6fa8d14"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/symfony/polyfill-ctype/zipball/4719fa9c18b0464d399f1a63bf624b42b6fa8d14",
+            "reference": "4719fa9c18b0464d399f1a63bf624b42b6fa8d14",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.3"
+        },
+        "suggest": {
+            "ext-ctype": "For best performance"
+        },
+        "time": "2020-02-27T09:26:54+00:00",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "1.15-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Symfony\\Polyfill\\Ctype\\": ""
+            },
+            "files": [
+                "bootstrap.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Gert de Pagter",
+                "email": "BackEndTea@gmail.com"
+            },
+            {
+                "name": "Symfony Community",
+                "homepage": "https://symfony.com/contributors"
+            }
+        ],
+        "description": "Symfony polyfill for ctype functions",
+        "homepage": "https://symfony.com",
+        "keywords": [
+            "compatibility",
+            "ctype",
+            "polyfill",
+            "portable"
+        ],
+        "funding": [
+            {
+                "url": "https://symfony.com/sponsor",
+                "type": "custom"
+            },
+            {
+                "url": "https://github.com/fabpot",
+                "type": "github"
+            },
+            {
+                "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
+                "type": "tidelift"
+            }
+        ]
+    },
+    {
+        "name": "webmozart/assert",
+        "version": "1.7.0",
+        "version_normalized": "1.7.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/webmozart/assert.git",
+            "reference": "aed98a490f9a8f78468232db345ab9cf606cf598"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/webmozart/assert/zipball/aed98a490f9a8f78468232db345ab9cf606cf598",
+            "reference": "aed98a490f9a8f78468232db345ab9cf606cf598",
+            "shasum": ""
+        },
+        "require": {
+            "php": "^5.3.3 || ^7.0",
+            "symfony/polyfill-ctype": "^1.8"
+        },
+        "conflict": {
+            "vimeo/psalm": "<3.6.0"
+        },
+        "require-dev": {
+            "phpunit/phpunit": "^4.8.36 || ^7.5.13"
+        },
+        "time": "2020-02-14T12:15:55+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Webmozart\\Assert\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Bernhard Schussek",
+                "email": "bschussek@gmail.com"
+            }
+        ],
+        "description": "Assertions to validate method input/output with nice error messages.",
+        "keywords": [
+            "assert",
+            "check",
+            "validate"
+        ]
+    },
+    {
+        "name": "webmozart/glob",
+        "version": "4.1.0",
+        "version_normalized": "4.1.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/webmozart/glob.git",
+            "reference": "3cbf63d4973cf9d780b93d2da8eec7e4a9e63bbe"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/webmozart/glob/zipball/3cbf63d4973cf9d780b93d2da8eec7e4a9e63bbe",
+            "reference": "3cbf63d4973cf9d780b93d2da8eec7e4a9e63bbe",
+            "shasum": ""
+        },
+        "require": {
+            "php": "^5.3.3|^7.0",
+            "webmozart/path-util": "^2.2"
+        },
+        "require-dev": {
+            "phpunit/phpunit": "^4.6",
+            "sebastian/version": "^1.0.1",
+            "symfony/filesystem": "^2.5"
+        },
+        "time": "2015-12-29T11:14:33+00:00",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "4.1-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Webmozart\\Glob\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Bernhard Schussek",
+                "email": "bschussek@gmail.com"
+            }
+        ],
+        "description": "A PHP implementation of Ant's glob."
+    },
+    {
+        "name": "webmozart/path-util",
+        "version": "2.3.0",
+        "version_normalized": "2.3.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/webmozart/path-util.git",
+            "reference": "d939f7edc24c9a1bb9c0dee5cb05d8e859490725"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/webmozart/path-util/zipball/d939f7edc24c9a1bb9c0dee5cb05d8e859490725",
+            "reference": "d939f7edc24c9a1bb9c0dee5cb05d8e859490725",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.3",
+            "webmozart/assert": "~1.0"
+        },
+        "require-dev": {
+            "phpunit/phpunit": "^4.6",
+            "sebastian/version": "^1.0.1"
+        },
+        "time": "2015-12-17T08:42:14+00:00",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "2.3-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Webmozart\\PathUtil\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Bernhard Schussek",
+                "email": "bschussek@gmail.com"
+            }
+        ],
+        "description": "A robust cross-platform utility for normalizing, comparing and modifying file paths."
     }
 ]
