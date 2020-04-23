@@ -210,8 +210,7 @@
                                     days we do not offer money back.</p>
                             </li>
                             <li>
-                                <a style="font-size: 15px;">Does the server come with vehicles, models & scripts
-                                    preinstalled?</a>
+                                <a style="font-size: 15px;">Does the server come with vehicles etc... preinstalled?</a>
                                 <p>The only time models, scripts & vehicles are preinstalled is if the extra setup is
                                     purchaused and then after that they can be installed by the development team for
                                     5$USD for the time required to install everything.</p>
