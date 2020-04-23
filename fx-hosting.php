@@ -195,7 +195,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 wow fadeInLeft" data-wow-delay="0.4s">
-                    <div class="faq-contents">
+                    <div class="faq-contents" id="faq">
                         <ul class="accordion">
                             <li>
                                 <a style="font-size: 34px;">What is the max Clients We can Have?</a>
