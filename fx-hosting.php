@@ -198,19 +198,19 @@
                     <div class="faq-contents" id="faq">
                         <ul class="accordion">
                             <li>
-                                <a style="font-size: 34px;">What is the max Clients We can Have?</a>
+                                <a style="font-size: 15px;">What is the max Clients We can Have?</a>
                                 <p>When you order a fx server from us no matter which plan you purchase we automatically
                                     give
                                     the max user amount free of charge.</p>
                             </li>
                             <li>
-                                <a style="font-size: 34px;">If the server isn't quite what we need can we get a
+                                <a style="font-size: 15px;">If the server isn't quite what we need can we get a
                                     refund?</a>
                                 <p>We offer a 5 day money back if the server is not running the way you'd like after 5
                                     days we do not offer money back.</p>
                             </li>
                             <li>
-                                <a style="font-size: 34px;">Does the server come with vehicles, models & scripts
+                                <a style="font-size: 15px;">Does the server come with vehicles, models & scripts
                                     preinstalled?</a>
                                 <p>The only time models, scripts & vehicles are preinstalled is if the extra setup is
                                     purchaused and then after that they can be installed by the development team for
