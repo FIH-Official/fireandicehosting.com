@@ -84,13 +84,13 @@
                                 <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 wow fadeInUp" data-wow-delay="0.5s">
                                     <div class="single-pricing">
                                         <i class="flaticon-file-sharing"></i>
-                                        <h4>Shared</h4>
-                                        <h3>$50.00<span>/yr</span></h3>
+                                        <h4>Ruby</h4>
+                                        <h3>$10.00<span>/Mo.</span></h3>
                                         <ul>
-                                            <li>100gb Disk Space</li>
-                                            <li>500gb Data Transfer</li>
-                                            <li>5 Domains Allowed</li>
-                                            <li>3 Email Accounts</li>
+                                            <li>1GB DDR3 ECC RAM</li>
+                                            <li>10gb Disk Space</li>
+                                            <li>2 MySQL Databases</li>
+                                            <li>2 Ports</li>
                                             <li>24/7 Customer Support</li>
                                         </ul>
                                         <a href="" class="bttn btn-fill">Order Now</a>
@@ -99,13 +99,13 @@
                                 <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 wow fadeInUp" data-wow-delay="0.5s">
                                     <div class="single-pricing">
                                         <i class="flaticon-database"></i>
-                                        <h4>VPS</h4>
-                                        <h3>$150.00<span>/yr</span></h3>
+                                        <h4>Saphire</h4>
+                                        <h3>$15.00<span>/Mo.</span></h3>
                                         <ul>
-                                            <li>100gb Disk Space</li>
-                                            <li>500gb Data Transfer</li>
-                                            <li>5 Domains Allowed</li>
-                                            <li>3 Email Accounts</li>
+                                            <li>2GB DDR3 ECC RAM</li>
+                                            <li>15gb Disk Space</li>
+                                            <li>3 MySQL Databases</li>
+                                            <li>2 Ports</li>
                                             <li>24/7 Customer Support</li>
                                         </ul>
                                         <a href="" class="bttn btn-fill">Order Now</a>
@@ -114,13 +114,13 @@
                                 <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 wow fadeInUp" data-wow-delay="0.5s">
                                     <div class="single-pricing">
                                         <i class="flaticon-database-1"></i>
-                                        <h4>Dedicated</h4>
-                                        <h3>$200.00<span>/yr</span></h3>
+                                        <h4>Emerald</h4>
+                                        <h3>$20.00<span>/Mo.</span></h3>
                                         <ul>
-                                            <li>100gb Disk Space</li>
-                                            <li>500gb Data Transfer</li>
-                                            <li>5 Domains Allowed</li>
-                                            <li>3 Email Accounts</li>
+                                            <li>3gb Disk Space</li>
+                                            <li>20gb Disk Space</li>
+                                            <li>4 MySQL Databases</li>
+                                            <li>3 Ports</li>
                                             <li>24/7 Customer Support</li>
                                         </ul>
                                         <a href="" class="bttn btn-fill">Order Now</a>
@@ -200,20 +200,15 @@
                         <ul class="accordion">
                             <li>
                                 <a>What is the max slots that we offer?</a>
-                                <p>When you order a FiveM server from us we assign the max slot count that thte game
-                                    supports which is 32 slots.</p>
+                                <p>When you order a FiveM server from us we assign the max slot count that thte game supports which is 32 slots.</p>
                             </li>
                             <li>
                                 <a>Do you offer a refund?</a>
-                                <p>We offer a 24 hour money ack guarentee on all services, after 24 hours you may be
-                                    entitled to a refund if the server is not running correctly or is not funtional.</p>
+                                <p>We offer a 24 hour money ack guarentee on all services, after 24 hours you may be entitled to a refund if the server is not running correctly or is not funtional.</p>
                             </li>
                             <li>
                                 <a>Does the server come with vehicles etc, preinstalled?</a>
-                                <p>The only models, scripts, & vehicles that will be preinstalled is the resources that
-                                    is requested during the professional setup that is purchased at the time of service
-                                    order by the development team for a $15 setup fee for the time required to install
-                                    everything.</p>
+                                <p>The only models, scripts, & vehicles that will be preinstalled is the resources that is requested during the professional setup that is purchased at the time of service order by the development team for a $15 setup fee for the time required to install everything.</p>
                             </li>
                         </ul>
                     </div>
@@ -223,24 +218,15 @@
                         <ul class="accordion">
                             <li>
                                 <a>Which do you like better, irates?</a>
-                                <p>Pellentesque justo lectus, a ipsum morbi at dui at, libero fusce tortorSed magna
-                                    aliquet ridiculus lacus euismod porttitor, dolor nec vestilum sed aliquam, sem
-                                    mauris pellentesque per volutpat sociis nec. Neque urna tempor conubia lorem, in
-                                    morbi justo eleifend augu.</p>
+                                <p>Pellentesque justo lectus, a ipsum morbi at dui at, libero fusce tortorSed magna aliquet ridiculus lacus euismod porttitor, dolor nec vestilum sed aliquam, sem mauris pellentesque per volutpat sociis nec. Neque urna tempor conubia lorem, in morbi justo eleifend augu.</p>
                             </li>
                             <li>
                                 <a>Are you friends with women?</a>
-                                <p>Pellentesque justo lectus, a ipsum morbi at dui at, libero fusce tortorSed magna
-                                    aliquet ridiculus lacus euismod porttitor, dolor nec vestilum sed aliquam, sem
-                                    mauris pellentesque per volutpat sociis nec. Neque urna tempor conubia lorem, in
-                                    morbi justo eleifend augu.</p>
+                                <p>Pellentesque justo lectus, a ipsum morbi at dui at, libero fusce tortorSed magna aliquet ridiculus lacus euismod porttitor, dolor nec vestilum sed aliquam, sem mauris pellentesque per volutpat sociis nec. Neque urna tempor conubia lorem in morbi justo eleifend augu.</p>
                             </li>
                             <li>
                                 <a>Can I get update in future?</a>
-                                <p>Pellentesque justo lectus, a ipsum morbi at dui at, libero fusce tortorSed magna
-                                    aliquet ridiculus lacus euismod porttitor, dolor nec vestilum sed aliquam, sem
-                                    mauris pellentesque per volutpat sociis nec. Neque urna tempor conubia lorem, in
-                                    morbi justo eleifend augu.</p>
+                                <p>Pellentesque justo lectus, a ipsum morbi at dui at, libero fusce tortorSed magna aliquet ridiculus lacus euismod porttitor, dolor nec vestilum sed aliquam, sem mauris pellentesque per volutpat sociis nec. Neque urna tempor conubia lorem, in morbi justo eleifend augu.</p>
                             </li>
                         </ul>
                     </div>
