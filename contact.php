@@ -45,7 +45,7 @@
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                                     <!-- <label for="discordid"></label> -->
-                                    <input type="number" name="discordid" id="discordid"
+                                    <input type="text" name="discordid" id="discordid"
                                         placeholder="Discord User Id Here" title="Only paste your discord user id here if you have a discord
                                         account this field is not required">
                                 </div>
