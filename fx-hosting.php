@@ -198,22 +198,16 @@
                     <div class="faq-contents" id="faq">
                         <ul class="accordion">
                             <li>
-                                <a style="font-size: 15px;">What is the max Clients We can Have?</a>
-                                <p>When you order a fx server from us no matter which plan you purchase we automatically
-                                    give
-                                    the max user amount free of charge.</p>
+                                <a style="font-size: 15px;">What is the max slots that we offer?</a>
+                                <p>When you order a FiveM server from us we assign the max slot count that thte game supports which is 32 slots.</p>
                             </li>
                             <li>
-                                <a style="font-size: 15px;">If the server isn't quite what we need can we get a
-                                    refund?</a>
-                                <p>We offer a 5 day money back if the server is not running the way you'd like after 5
-                                    days we do not offer money back.</p>
+                                <a style="font-size: 15px;">If the server isn't quite what we need can we get a refund?</a>
+                                <p>We offer a 24 hour money ack guarentee on all services, after 24 hours you may be entitled to a refund if the server is not running correctly or is not funtional.</p>
                             </li>
                             <li>
                                 <a style="font-size: 15px;">Does the server come with vehicles etc... preinstalled?</a>
-                                <p>The only time models, scripts & vehicles are preinstalled is if the extra setup is
-                                    purchaused and then after that they can be installed by the development team for
-                                    5$USD for the time required to install everything.</p>
+                                <p>The only time models, scripts & vehicles that will be preinstalled is the resources that is installed during the professional setup that is purchased at the time of service order by the development team for a $15 setup fee for the time required to install everything.</p>
                             </li>
                         </ul>
                     </div>
