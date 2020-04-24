@@ -35,14 +35,14 @@
                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 wow fadeInLeft" data-wow-delay="0.3s">
                     <div class="services-content">
                         <h2 class="mb-20">FiveM Hosting</h2>
-                        <p>As absolute is by amounted repeated entirely ye returned. These ready timed enjoy might sir
-                            yet one since. Years drift never if could forty being no. On estimable dependent as
-                            suffering on my.</p>
+                        <p>We offer top of the line FiveM hosting, that is cheaper and more affordable than other
+                            hosting companies. FiveM servers by ZapHosting are horibly overclocked and over ran. Our
+                            Servers are never overclocked and specified to your needs for an affordable price!</p>
                         <ul>
-                            <li>Terrible Secrets Your Grandmother Thinks About In.</li>
-                            <li>Dirty Things That Make Therapists Work Harder.</li>
-                            <li>Mila Kunis's Top 10 Surprising Microsoft Excel Tips.</li>
-                            <li>Scary Facts About Treasury Secretary Jack Lew.</li>
+                            <li>Unbelieveable Server speeds.</li>
+                            <li>Webpanel management for your server</li>
+                            <li>Built in webpanel file editor</li>
+                            <li>Smooth Roleplay during extreme Roleplay Times!</li>
                         </ul>
                         <a href="" class="bttn btn-fill">Order Now</a>
                     </div>
@@ -189,7 +189,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-8 col-md-12 col-sm-12 col-xs-12 centered wow fadeInUp" data-wow-delay="0.3s">
                     <div class="section-title">
-                        <h2 class="cl-black">Some Question & Answer</h2>
+                        <h2 class="cl-black">Our Frequently asked questions are answered below.</h2>
                     </div>
                 </div>
             </div>
@@ -203,7 +203,7 @@
                                     supports which is 32 slots.</p>
                             </li>
                             <li>
-                                <a>If the server isn't quite what we need can we get a refund?</a>
+                                <a>Do you offer a refund?</a>
                                 <p>We offer a 24 hour money ack guarentee on all services, after 24 hours you may be
                                     entitled to a refund if the server is not running correctly or is not funtional.</p>
                             </li>
