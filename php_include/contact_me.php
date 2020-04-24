@@ -39,20 +39,20 @@ $headers .= "MIME-Version: 1.0\r\n";
 $headers .= "Reply-To: $email_address";
 // reCaptcha security
 //reCAPTCHA validation
-$SECRET_KEY = "6LerxO0UAAAAALGZDsbzPjFUYoBIT_SB8XU5WXZr";
-if (isset($_POST['g-recaptcha-response'])) {
+// $SECRET_KEY = "6LerxO0UAAAAALGZDsbzPjFUYoBIT_SB8XU5WXZr";
+// if (isset($_POST['g-recaptcha-response'])) {
 		
-    require('component/recaptcha/src/autoload.php');		
+//     require('component/recaptcha/src/autoload.php');		
     
-    $recaptcha = new \ReCaptcha\ReCaptcha(SECRET_KEY);
+//     $recaptcha = new \ReCaptcha\ReCaptcha(SECRET_KEY);
 
-    $resp = $recaptcha->verify($_POST['g-recaptcha-response'], $_SERVER['REMOTE_ADDR']);
+//     $resp = $recaptcha->verify($_POST['g-recaptcha-response'], $_SERVER['REMOTE_ADDR']);
 
-      if (!$resp->isSuccess()) {
-            $output = json_encode(array('type'=>'error', 'text' => '<b>Captcha</b> Validation Required!'));
-            die($output);				
-      }	
-}
+//       if (!$resp->isSuccess()) {
+//             $output = json_encode(array('type'=>'error', 'text' => '<b>Captcha</b> Validation Required!'));
+//             die($output);				
+//       }	
+// }
 //================================================================================//
 // This here is the discord webhook code                                          //
 //================================================================================//

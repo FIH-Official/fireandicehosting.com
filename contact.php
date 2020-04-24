@@ -2,7 +2,7 @@
 <html lang="en">
 <?php require_once ("./php_include/hidden/api.php");?>
 <?php require_once ("./php_include/header.php");?>
-<script src="https://www.google.com/recaptcha/api.js"></script>
+<!-- <script src="https://www.google.com/recaptcha/api.js"></script> -->
 
 <body>
     <?php require_once ("./php_include/nav-bar.php");?>
@@ -60,9 +60,9 @@
                             </div>
                             <textarea name="message" id="message" rows="6" name="message"
                                 placeholder="Message"></textarea>
-                            <div class="g-recaptcha"
-                                data-sitekey="<?php echo "6LerxO0UAAAAAFxlAuQsx9pM_11dgMtRz435NOus";?>"></div>
-                            <div id="mail-status"></div>
+                            <!-- <div class="g-recaptcha"
+                                data-sitekey=""></div>
+                            <div id="mail-status"></div> -->
                             <button class="bttn btn-fill" type="submit">Send Message</button>
                         </form>
                     </div>
