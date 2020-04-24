@@ -64,7 +64,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-10 col-md-12 col-sm-12 col-xs-12 centered wow fadeInUp" data-wow-delay="0.3s">
                     <div class="section-title cl-black">
-                        <h2 class="mb-40">Our Hosting Price</h2>
+                        <h2 class="mb-40">FiveM Hosting Prices</h2>
                     </div>
                 </div>
             </div>
@@ -73,8 +73,8 @@
                     <div class="row justify-content-center wow fadeInUp" data-wow-delay="0.4s">
                         <ul id="tabsJustified" class="nav nav-tabs hosting-tab-btns mb-40">
                             <li><a href="" data-target="#yearly" data-toggle="tab"
-                                    class="active bor-radius-lft">Yearly</a></li>
-                            <li><a href="" data-target="#monthly" data-toggle="tab" class="bor-radius-rgt">Monthly</a>
+                                    class="active bor-radius-lft">Monthly</a></li>
+                            <!--<li><a href="" data-target="#monthly" data-toggle="tab" class="bor-radius-rgt">Monthly</a>-->
                             </li>
                         </ul>
                     </div>
@@ -128,7 +128,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div id="monthly" class="tab-pane fade">
+                      <!--  <div id="monthly" class="tab-pane fade">
                             <div class="row mb-40">
                                 <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
                                     <div class="single-pricing">
@@ -176,7 +176,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div>-->
                     </div>
                 </div>
             </div>
