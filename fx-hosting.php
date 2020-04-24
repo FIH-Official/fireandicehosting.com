@@ -117,7 +117,7 @@
                                         <h4>Emerald</h4>
                                         <h3>$20.00<span>/Mo.</span></h3>
                                         <ul>
-                                            <li>3gb Disk Space</li>
+                                            <li>3gb DDR3 ECC RAM</li>
                                             <li>20gb Disk Space</li>
                                             <li>4 MySQL Databases</li>
                                             <li>3 Ports</li>
