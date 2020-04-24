@@ -207,7 +207,7 @@
                             </li>
                             <li>
                                 <a style="font-size: 15px;">Does the server come with vehicles etc... preinstalled?</a>
-                                <p>The only time models, scripts & vehicles that will be preinstalled is the resources that is installed during the professional setup that is purchased at the time of service order by the development team for a $15 setup fee for the time required to install everything.</p>
+                                <p>The only models, scripts, & vehicles that will be preinstalled is the resources that is requested during the professional setup that is purchased at the time of service order by the development team for a $15 setup fee for the time required to install everything.</p>
                             </li>
                         </ul>
                     </div>
