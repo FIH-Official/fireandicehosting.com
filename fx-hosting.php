@@ -198,16 +198,21 @@
                     <div class="faq-contents" id="faq">
                         <ul class="accordion">
                             <li>
-                                <a style="font-size: 15px;">What is the max slots that we offer?</a>
-                                <p>When you order a FiveM server from us we assign the max slot count that thte game supports which is 32 slots.</p>
+                                <a>What is the max slots that we offer?</a>
+                                <p>When you order a FiveM server from us we assign the max slot count that thte game
+                                    supports which is 32 slots.</p>
                             </li>
                             <li>
-                                <a style="font-size: 15px;">If the server isn't quite what we need can we get a refund?</a>
-                                <p>We offer a 24 hour money ack guarentee on all services, after 24 hours you may be entitled to a refund if the server is not running correctly or is not funtional.</p>
+                                <a>If the server isn't quite what we need can we get a refund?</a>
+                                <p>We offer a 24 hour money ack guarentee on all services, after 24 hours you may be
+                                    entitled to a refund if the server is not running correctly or is not funtional.</p>
                             </li>
                             <li>
-                                <a style="font-size: 15px;">Does the server come with vehicles etc, preinstalled?</a>
-                                <p>The only models, scripts, & vehicles that will be preinstalled is the resources that is requested during the professional setup that is purchased at the time of service order by the development team for a $15 setup fee for the time required to install everything.</p>
+                                <a>Does the server come with vehicles etc, preinstalled?</a>
+                                <p>The only models, scripts, & vehicles that will be preinstalled is the resources that
+                                    is requested during the professional setup that is purchased at the time of service
+                                    order by the development team for a $15 setup fee for the time required to install
+                                    everything.</p>
                             </li>
                         </ul>
                     </div>
