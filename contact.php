@@ -60,7 +60,8 @@
                             </div>
                             <textarea name="message" id="message" rows="6" name="message"
                                 placeholder="Message"></textarea>
-                            <div class="g-recaptcha" data-sitekey="6LerxO0UAAAAAFxlAuQsx9pM_11dgMtRz435NOus"></div>
+                            <div class="g-recaptcha"
+                                data-sitekey="<?php echo "6LerxO0UAAAAAFxlAuQsx9pM_11dgMtRz435NOus";?>"></div>
                             <div id="mail-status"></div>
                             <button class="bttn btn-fill" type="submit">Send Message</button>
                         </form>
