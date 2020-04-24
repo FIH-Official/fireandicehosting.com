@@ -35,13 +35,14 @@
                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 wow fadeInLeft" data-wow-delay="0.3s">
                     <div class="services-content">
                         <h2 class="mb-20">FiveM Hosting</h2>
-                        <p>We offer top of the line FiveM hosting, that is cheaper and more affordable than other
-                            hosting companies. FiveM servers by ZapHosting are horibly overclocked and over ran. Our
-                            Servers are never overclocked and specified to your needs for an affordable price!</p>
+                        <p>We offer top of the line Five M hosting, which is cheaper and more affordable than other
+                            hosting companies. Five M servers by Zap Hosting are horribly overcooked and overran. Our
+                            Servers are never overlooked and specified to your needs for an affordable price! Why pay
+                            more for a server that is overclocked and running horrably.</p>
                         <ul>
-                            <li>Unbelieveable Server speeds.</li>
-                            <li>Webpanel management for your server</li>
-                            <li>Built in webpanel file editor</li>
+                            <li>Unbelievable Server speeds.</li>
+                            <li>Web panel management for your server</li>
+                            <li>Built-in web panel file editor</li>
                             <li>Smooth Roleplay during extreme Roleplay Times!</li>
                         </ul>
                         <a href="" class="bttn btn-fill">Order Now</a>
