@@ -44,7 +44,7 @@ if (isset($_POST['g-recaptcha-response'])) {
 		
     require('component/recaptcha/src/autoload.php');		
     
-    $recaptcha = new \ReCaptcha\ReCaptcha($SECRET_KEY);
+    $recaptcha = new \ReCaptcha\ReCaptcha(SECRET_KEY);
 
     $resp = $recaptcha->verify($_POST['g-recaptcha-response'], $_SERVER['REMOTE_ADDR']);
 
