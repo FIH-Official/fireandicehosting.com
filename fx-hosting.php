@@ -206,7 +206,7 @@
                                 <p>We offer a 24 hour money ack guarentee on all services, after 24 hours you may be entitled to a refund if the server is not running correctly or is not funtional.</p>
                             </li>
                             <li>
-                                <a style="font-size: 15px;">Does the server come with vehicles etc... preinstalled?</a>
+                                <a style="font-size: 15px;">Does the server come with vehicles etc, preinstalled?</a>
                                 <p>The only models, scripts, & vehicles that will be preinstalled is the resources that is requested during the professional setup that is purchased at the time of service order by the development team for a $15 setup fee for the time required to install everything.</p>
                             </li>
                         </ul>
