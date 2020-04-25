@@ -1,0 +1,30 @@
+[2020-04-24 07:19:11.839] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/config/data/Machine'
+[2020-04-24 07:19:16.547] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/config/data/User'
+[2020-04-24 07:19:16.547] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/config/data/User'
+[2020-04-24 07:19:16.553] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/config/data/User'
+[2020-04-24 07:19:16.553] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/config/data/User'
+[2020-04-24 07:30:22.832] [remoteagent] [info] Installing extension: esbenp.prettier-vscode
+[2020-04-24 07:30:31.287] [remoteagent] [info] Installing extension: redhat.java
+[2020-04-24 07:31:11.958] [remoteagent] [info] Installing extension: formulahendry.code-runner
+[2020-04-24 07:31:16.424] [remoteagent] [info] Installing extension: pkief.material-icon-theme
+[2020-04-24 07:31:18.923] [remoteagent] [info] Installing extension: felixfbecker.php-intellisense
+[2020-04-24 07:31:25.697] [remoteagent] [info] Installing extension: ecmel.vscode-html-css
+[2020-04-24 07:31:38.599] [remoteagent] [info] Installing extension: christian-kohler.path-intellisense
+[2020-04-24 07:31:59.334] [remoteagent] [info] Downloaded extension: pkief.material-icon-theme /tmp/7fc9ca4b-2f8a-4da0-9b6f-ccf53c1eec82
+[2020-04-24 07:32:08.391] [remoteagent] [info] Downloaded extension: ecmel.vscode-html-css /tmp/b5189608-dc55-4c8c-a1a9-6e0bf5e402d8
+[2020-04-24 07:32:10.213] [remoteagent] [info] Extracted extension to /config/extensions/.ecmel.vscode-html-css-0.2.3: ecmel.vscode-html-css
+[2020-04-24 07:32:10.262] [remoteagent] [info] Renamed to /config/extensions/ecmel.vscode-html-css-0.2.3
+[2020-04-24 07:32:10.320] [remoteagent] [info] Installation completed. ecmel.vscode-html-css
+[2020-04-24 07:32:10.443] [remoteagent] [info] Extensions installed successfully: ecmel.vscode-html-css
+[2020-04-24 07:32:15.100] [remoteagent] [info] Downloaded extension: formulahendry.code-runner /tmp/a143cf62-4d3b-49b3-9033-dae76aa7efd4
+[2020-04-24 07:32:32.718] [remoteagent] [info] Extracted extension to /config/extensions/.formulahendry.code-runner-0.9.17: formulahendry.code-runner
+[2020-04-24 07:32:33.191] [remoteagent] [info] Rename failed. Deleting from extracted location /config/extensions/.formulahendry.code-runner-0.9.17
+[2020-04-24 07:32:33.429] [remoteagent] [info] Downloaded extension: esbenp.prettier-vscode /tmp/0270767c-e261-4299-8074-a5266dae6c9d
+[2020-04-24 07:32:35.210] [remoteagent] [error] Failed to install extension: formulahendry.code-runner ENOENT: no such file or directory, rename '/config/extensions/.formulahendry.code-runner-0.9.17' -> '/config/extensions/formulahendry.code-runner-0.9.17'
+[2020-04-24 07:32:46.551] [remoteagent] [info] Extracted extension to /config/extensions/.esbenp.prettier-vscode-3.20.0: esbenp.prettier-vscode
+[2020-04-24 07:32:46.588] [remoteagent] [info] Rename failed. Deleting from extracted location /config/extensions/.esbenp.prettier-vscode-3.20.0
+[2020-04-24 07:32:47.642] [remoteagent] [error] Failed to install extension: esbenp.prettier-vscode ENOENT: no such file or directory, rename '/config/extensions/.esbenp.prettier-vscode-3.20.0' -> '/config/extensions/esbenp.prettier-vscode-3.20.0'
+[2020-04-24 07:35:40.966] [remoteagent] [info] Extracted extension to /config/extensions/.pkief.material-icon-theme-4.0.1: pkief.material-icon-theme
+[2020-04-24 07:35:40.976] [remoteagent] [info] Rename failed. Deleting from extracted location /config/extensions/.pkief.material-icon-theme-4.0.1
+[2020-04-24 07:35:47.760] [remoteagent] [error] Failed to install extension: pkief.material-icon-theme ENOENT: no such file or directory, rename '/config/extensions/.pkief.material-icon-theme-4.0.1' -> '/config/extensions/pkief.material-icon-theme-4.0.1'
+[2020-04-24 07:35:47.896] [remoteagent] [info] Downloaded extension: christian-kohler.path-intellisense /tmp/c36e6bc9-181e-4334-a07f-0c7b0695f37c
